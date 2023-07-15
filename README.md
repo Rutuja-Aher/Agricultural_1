@@ -79,5 +79,11 @@ https://github.com/Rutuja-Aher/Agricultural_1/assets/117569950/be3637e1-0f3a-4fa
 ![graph](https://github.com/Rutuja-Aher/Agricultural_1/assets/117569950/09a6d322-fd38-4907-86b1-08fd5eeada9c)
 
 
+![Elbow](https://github.com/Rutuja-Aher/Agricultural_1/assets/117569950/c9f3bacd-2042-40a3-9dfb-5b8f3d3c1fbe)
+
+
+![Heatmap](https://github.com/Rutuja-Aher/Agricultural_1/assets/117569950/5e8682a5-6a98-404a-95af-42195bab983d)
+
+
 
 
